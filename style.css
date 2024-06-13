@@ -1,0 +1,33 @@
+.hero {
+    background: url('https://img.freepik.com/free-photo/close-up-traveler-with-cute-dog-map_23-2149009141.jpg?t=st=1718320360~exp=1718323960~hmac=2e453d9452c9ceef920fe3f0dae714e24fca11727d5b31474526e9b42904dce8&w=900') no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 70px;
+}
+
+.hero p {
+    font-size: 30px;
+}
+
+
+.hero button {
+    margin: 5px;
+    padding: 10px;
+}
+
+.icon-section .icon {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.pricing .card {
+    margin: 10px 0;
+}
